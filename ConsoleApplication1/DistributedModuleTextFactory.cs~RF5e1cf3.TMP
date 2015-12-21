@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace exercise_1
+{
+    class DistributedModuleTextFactory : DistributedModuleFactory
+    {
+        public DistributedModuleTextFactory(String text) : base(text)
+        {
+
+        }
+
+        public override Exporter CreateExporter()
+        {
+            return new TextExporter((String)this.data);
+        }
+
+        public override Importer CreateImporter()
+        {
+            TextImporter im = new TextImporter();
+            im.ImportData(this.data);
+            return im;
+        }
+    }
+}

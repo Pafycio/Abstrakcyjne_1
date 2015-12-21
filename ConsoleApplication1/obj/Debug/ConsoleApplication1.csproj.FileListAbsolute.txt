@@ -1,0 +1,2 @@
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

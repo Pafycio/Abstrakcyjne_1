@@ -1,0 +1,14 @@
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\obj\Debug\exercise_1.csprojResolveAssemblyReference.cache
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\exercise_1.pdb
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\obj\Debug\exercise_1.pdb
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\exercise_1.dll.config
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\exercise_1.dll
+D:\userdata\pfert\My Documents\Visual Studio 2015\Projects\Abstrakcyjne\Ex_1\ConsoleApplication1\obj\Debug\exercise_1.dll
+E:\Projekty\Coding\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\exercise_1.dll.config
+E:\Projekty\Coding\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\exercise_1.dll
+E:\Projekty\Coding\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\exercise_1.pdb
+E:\Projekty\Coding\Abstrakcyjne\Ex_1\ConsoleApplication1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projekty\Coding\Abstrakcyjne\Ex_1\ConsoleApplication1\obj\Debug\exercise_1.csprojResolveAssemblyReference.cache
+E:\Projekty\Coding\Abstrakcyjne\Ex_1\ConsoleApplication1\obj\Debug\exercise_1.dll
+E:\Projekty\Coding\Abstrakcyjne\Ex_1\ConsoleApplication1\obj\Debug\exercise_1.pdb
